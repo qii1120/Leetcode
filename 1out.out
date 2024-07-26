@@ -1,0 +1,60 @@
+The element A can be inserted.
+The element B can be inserted.
+The element C can be inserted.
+The element D can be inserted.
+The element E can be inserted.
+The element F can be inserted.
+The element E cannot be inserted.
+The element D cannot be inserted.
+The element C cannot be inserted.
+The element B cannot be inserted.
+The element A cannot be inserted.
+The element A can be inserted.
+The element B can be inserted.
+The element C can be inserted.
+The element D can be inserted.
+The element E can be inserted.
+The element F can be inserted.
+The element G can be inserted.
+The element H can be inserted.
+The element I can be inserted.
+The element J can be inserted.
+The element K can be inserted.
+The element L can be inserted.
+The element M can be inserted.
+The element N can be inserted.
+The element O can be inserted.
+The element P can be inserted.
+The element O cannot be inserted.
+The element N cannot be inserted.
+The element M cannot be inserted.
+The element L cannot be inserted.
+The element K cannot be inserted.
+The element J cannot be inserted.
+The element I cannot be inserted.
+The element H cannot be inserted.
+The element G cannot be inserted.
+The element F cannot be inserted.
+The element E cannot be inserted.
+The element D cannot be inserted.
+The element C cannot be inserted.
+The element B cannot be inserted.
+The element A cannot be inserted.
+{A, B, C, D, E, F}
+{A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P}
+{A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P}
+{A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P}
+{}
+{G, H, I, J, K, L, M, N, O, P}
+{A, B, C, D, E, F}
+{A, B, C, D, E, F}
+0
+0
+0
+1
+1
+0
+0
+1
+1
+0

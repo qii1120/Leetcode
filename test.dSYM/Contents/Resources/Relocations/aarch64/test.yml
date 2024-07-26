@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jenny/Desktop/Leetcode/test'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _function, symObjAddr: 0x0, symBinAddr: 0x100003790, symSize: 0x55C }
+  - { offsetInCU: 0x2E2, offset: 0x2E2, size: 0x8, addend: 0x0, symName: _function, symObjAddr: 0x0, symBinAddr: 0x100003790, symSize: 0x55C }
+  - { offsetInCU: 0x3E0, offset: 0x3E0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x55C, symBinAddr: 0x100003CEC, symSize: 0x19C }
+...
